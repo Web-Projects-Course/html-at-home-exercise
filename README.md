@@ -1,14 +1,14 @@
 # HTML at-home exercise
 
-Lets create our own HTML document. This one will serve as a brief introduction to the class.
+Let's create our own HTML document. This one will serve as a brief introduction to the class.
 
-The file *index.html* has already been created for you. You can simply add your content to the existing HTML. The document includes a number of elements that structure the page. Read the comments to get a sense of what they do, but will spend some time on this next class.
+The file *index.html* has already been created for you. You can simply add your content to the existing HTML. The document includes a number of elements that structure the page. Read the comments to get a sense of what they do, but we will spend some time on this next class.
 
 This exercise will serve two purposes. One, it will give you some practice with the basic HTML elements. Two, it will give me (and you) a clearer picture of what you want to accomplish this semester.
 
 To do this we are going to pretend that you are writing this on May 16, just after our final critique of the semester. 
 
-You have completed your final project and your very proud of it. You have also learned a some new skills this semester and been introduced to some new ideas. Take some time describing in detail what your project is, why it was sucessful, what new skills you learned and some subjects/ideas you have learned more about.
+You have completed your final project and your very proud of it. You have also learned a some new skills this semester and been introduced to some new ideas. Take some time to describe in detail what your project is, why it was successful, what new skills you learned and some subjects/ideas you have explored this semester.
 
 ### Things to include
 * **Primary heading:** Your name
